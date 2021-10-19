@@ -1,5 +1,7 @@
 # 1일차
 ## Mysql : 오픈소스 관계형 데이터베이스 관리 시스템.
+### - Mysql의 구조
+![image](https://user-images.githubusercontent.com/89372116/137944517-cbec4d52-5a35-4e8d-9af7-ac9965aabcbe.png)
 ## Mysql 설치
 ### - Bitnami wamp 설치
 ![image](https://user-images.githubusercontent.com/89372116/137637230-c165f0a7-1db7-442f-88cd-45365a5f45eb.png)
